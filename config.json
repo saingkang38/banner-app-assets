@@ -4,13 +4,14 @@
   "banners": [
     {
       "name": "top",
-      "image_url": "https://raw.githubusercontent.com/saingkang38/banner-app-assets/main/top.jpg",
+      "image_url": "https://raw.githubusercontent.com/saingkang38/banner-app-assets/main/bottom.jpg",
       "link_url": "https://www.naver.com"
     },
     {
       "name": "bottom",
-      "image_url": "https://raw.githubusercontent.com/saingkang38/banner-app-assets/main/bottom.jpg",
+      "image_url": "https://raw.githubusercontent.com/saingkang38/banner-app-assets/main/top.jpg",
       "link_url": "https://www.bearb2b.com"
     }
   ]
 }
+
