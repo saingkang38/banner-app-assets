@@ -4,13 +4,13 @@
   "banners": [
     {
       "name": "top",
-      "image_url": "https://raw.githubusercontent.com/너계정/banner-app-assets/main/top.png",
-      "link_url": "https://example.com/top"
+      "image_url": "https://raw.githubusercontent.com/saingkang38/banner-app-assets/main/top.jpg",
+      "link_url": "https://www.naver.com"
     },
     {
       "name": "bottom",
-      "image_url": "https://raw.githubusercontent.com/너계정/banner-app-assets/main/bottom.png",
-      "link_url": "https://example.com/bottom"
+      "image_url": "https://raw.githubusercontent.com/saingkang38/banner-app-assets/main/bottom.jpg",
+      "link_url": "https://www.bearb2b.com"
     }
   ]
 }
