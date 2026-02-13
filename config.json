@@ -1,0 +1,16 @@
+{
+  "refresh_sec": 3600,
+  "window": { "width": 820, "padding": 16, "radius": 18 },
+  "banners": [
+    {
+      "name": "top",
+      "image_url": "https://raw.githubusercontent.com/너계정/banner-app-assets/main/top.png",
+      "link_url": "https://example.com/top"
+    },
+    {
+      "name": "bottom",
+      "image_url": "https://raw.githubusercontent.com/너계정/banner-app-assets/main/bottom.png",
+      "link_url": "https://example.com/bottom"
+    }
+  ]
+}
